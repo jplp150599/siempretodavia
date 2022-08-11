@@ -1,7 +1,7 @@
 ## Hoy es siempre todavía
 Un espacio de diálgo entre la historia, las letras y la actualidad.
 
-Somos
+Hoy es siempre todavía es un espacio de difusión y conciencia sobre el pasado y hechos humanos. 
 
 
 ### Markdown
